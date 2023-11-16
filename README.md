@@ -2,6 +2,10 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+Live Demo IPFS: ipfs://bafybeif23qwsbag7p5zmrvtjftdsn5ar4w5l7hb3zzms5iqfmiilp5y4yi
+
+Live Demo Fleek: https://tiny-base-6608.on.fleek.co
+
 First, run the development server:
 
 ```bash
